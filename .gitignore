@@ -1,0 +1,10 @@
+# NetBeans
+build/
+dist/
+nbproject/private/
+
+# Datos de ejecución de la aplicación
+datos/
+
+# Java
+*.class
